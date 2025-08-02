@@ -1,8 +1,3 @@
-# Titanic-Project
-Titanic data analysis and prediction project 
-
----
-
 # 🚢 Titanic Survival Analysis & Prediction
 
 ## 📌 Overview
