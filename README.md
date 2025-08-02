@@ -54,29 +54,6 @@ This project analyzes the Titanic passenger dataset to identify key factors infl
 
 ---
 
-## 🚀 Installation & Usage
-
-1. Clone this repository:
-
-```bash
-git clone https://github.com/yourusername/titanic-project.git
-cd titanic-project
-```
-
-2. Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-3. Run the analysis:
-
-```bash
-python titanic_analysis.py
-```
-
----
-
 ## 📂 Project Structure
 
 ```
@@ -86,6 +63,15 @@ python titanic_analysis.py
  └── Titanic_Project.ipynb     # Project documentation
 ```
 
+---
+
+## 📈 Example Insights
+
+* **Highest survival rate:** First-class female passengers.
+* **Top 3 survival factors:** Passenger Class, Sex, Fare.
+* **Random Forest Accuracy:** \~80% (varies with parameters).
+
+---
 
 ## 🚀 Installation & Usage
 
@@ -108,12 +94,6 @@ pip install -r requirements.txt
 python titanic_analysis.py
 ```
 
----
-## 📈 Example Insights
-
-* **Highest survival rate:** First-class female passengers.
-* **Top 3 survival factors:** Passenger Class, Sex, Fare.
-* **Random Forest Accuracy:** \~80% (varies with parameters).
 
 
 
