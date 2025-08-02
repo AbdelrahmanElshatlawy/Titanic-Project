@@ -86,9 +86,9 @@ python titanic_analysis.py
 
 ```
 📁 titanic-project/
- ├── README.md                # Titanic dataset
- ├── Titanic-Dataset.csv      # Main Python script
- └── Titanic_Project.py       # Project documentation
+ ├── README.md                 # Titanic dataset
+ ├── Titanic-Dataset.csv       # Main Python script
+ └── Titanic_Project.ipynb     # Project documentation
 ```
 
 
